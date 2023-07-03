@@ -13,10 +13,10 @@ Navigate to "Plugins" -> "Add New".
 Click on the "Upload Plugin" button.
 Choose the downloaded ZIP file and click "Install Now".
 Activate the plugin.
-Use the [pubg_fancy_name_generator] shortcode to display the generator in your posts or pages.
+Use the [pubg_name_generator] shortcode to display the generator in your posts or pages.
 Usage:
 Edit a post or page where you want to insert the PUBG Fancy Name Generator.
-Add the shortcode [pubg_fancy_name_generator] at the desired location.
+Add the shortcode [pubg_name_generator] at the desired location.
 Publish or update the post or page.
 The generator will be displayed, allowing users to generate stylish PUBG names.
 Contributing:
